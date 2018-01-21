@@ -33,7 +33,7 @@ N° | Problem | Solution
 16 | [Power digit sum](https://projecteuler.net/problem=16) | [Problem016](./solutions/Problem016.java)
 17 | [Number letter counts](https://projecteuler.net/problem=17) | [Problem017](./solutions/Problem017.java)
 18 | [Maximum path sum I](https://projecteuler.net/problem=18) |
-19 | [Counting Sundays](https://projecteuler.net/problem=19) |
+19 | [Counting Sundays](https://projecteuler.net/problem=19) | [Problem019](./solutions/Problem019.java)
 20 | [Factorial digit sum](https://projecteuler.net/problem=20) |
 21 | [Amicable numbers](https://projecteuler.net/problem=21) |
 22 | [Names scores](https://projecteuler.net/problem=22) |
