@@ -38,7 +38,7 @@ N° | Problem | Solution
 21 | [Amicable numbers](https://projecteuler.net/problem=21) |
 22 | [Names scores](https://projecteuler.net/problem=22) |
 23 | [Non-abundant sums](https://projecteuler.net/problem=23) |
-24 | [Lexicographic permutations](https://projecteuler.net/problem=24) |
+24 | [Lexicographic permutations](https://projecteuler.net/problem=24) | [Problem024](./solutions/Problem024.java)
 25 | [1000-digit Fibonacci number](https://projecteuler.net/problem=25) | [Problem025](./solutions/Problem025.java)
 26 | [Reciprocal cycles](https://projecteuler.net/problem=26) |
 27 | [Quadratic primes](https://projecteuler.net/problem=27) |
