@@ -41,7 +41,7 @@ N° | Problem | Solution
 24 | [Lexicographic permutations](https://projecteuler.net/problem=24) | [Problem024](./solutions/Problem024.java)
 25 | [1000-digit Fibonacci number](https://projecteuler.net/problem=25) | [Problem025](./solutions/Problem025.java)
 26 | [Reciprocal cycles](https://projecteuler.net/problem=26) |
-27 | [Quadratic primes](https://projecteuler.net/problem=27) |
+27 | [Quadratic primes](https://projecteuler.net/problem=27) | [Problem027](./solutions/Problem027.java)
 28 | [Number spiral diagonals](https://projecteuler.net/problem=28) |
 29 | [Distinct powers](https://projecteuler.net/problem=29) |
 30 | [Digit fifth powers](https://projecteuler.net/problem=30) |
