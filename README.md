@@ -28,7 +28,7 @@ N° | Problem | Solution
 11 | [Largest product in a grid](https://projecteuler.net/problem=11) | [Problem011](./solutions/Problem011.java)
 12 | [Highly divisible triangular number](https://projecteuler.net/problem=12) | [Problem012](./solutions/Problem012.java)
 13 | [Large sum](https://projecteuler.net/problem=13) | [Problem013](./solutions/Problem013.java)
-14 | [Longest Collatz sequence](https://projecteuler.net/problem=14)
+14 | [Longest Collatz sequence](https://projecteuler.net/problem=14) | [Problem014](./solutions/Problem014.java)
 15 | [Lattice paths](https://projecteuler.net/problem=15) | [Problem015](./solutions/Problem015.java)
 16 | [Power digit sum](https://projecteuler.net/problem=16) | [Problem016](./solutions/Problem016.java)
 17 | [Number letter counts](https://projecteuler.net/problem=17) | [Problem017](./solutions/Problem017.java)
